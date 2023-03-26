@@ -40,3 +40,28 @@ And one can validate whether the fire detection is fake or not by referring to o
 **Object Detection:** OpenCV
 
 **Others:** Python, AWS, NASA API
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone [Link to project]
+```
+
+Go to the project directory
+
+```bash
+  cd wildfire-saviour
+```
+
+Install dependencies
+
+```bash
+  npm i
+```
+Run it locally
+
+```bash
+  npm run dev
+```
