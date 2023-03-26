@@ -25,6 +25,8 @@ The OpenCV part is in the other repo.
 
 Here we implemented OpenCV to predict the wildfire and then send an email as well as ringing an alarm for 11s.
 
+Repo link - https://github.com/ighoshsubho/wildfire-saviour-backend
+
 ### Validation
 
 And one can validate whether the fire detection is fake or not by referring to our website which will fetch the data from NASA API in almost realtime.
